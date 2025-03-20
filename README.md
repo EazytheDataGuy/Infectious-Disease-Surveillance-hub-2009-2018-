@@ -5,10 +5,10 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Data Cleaning/Preparation](#data-cleaning-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Results/Findings](#Results/Findings)
+- [Results/Findings](#results-Findings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
@@ -16,7 +16,12 @@
 
 This project analyzes infectious disease trends in Nigeria from 2009 to 2018 using SQL for data cleaning and Power BI for visualization. It explores disease prevalence, mortality rates, gender-based distribution, urban vs. rural impact, and state-wise case trends.
 
+
+![Screenshot 2025-03-19 234526](https://github.com/user-attachments/assets/a9fdf49c-7dab-44f7-86c8-94cf6da213a4)
+
+
 ### Data Sources
+
 
 Infectious Diseases Data: The primary dataset used for this analysis is the "meningitis_clean" file
 
