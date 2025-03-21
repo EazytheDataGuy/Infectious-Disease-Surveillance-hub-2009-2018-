@@ -16,6 +16,7 @@
 
 This project analyzes infectious disease trends in Nigeria from 2009 to 2018 using SQL for data cleaning and Power BI for visualization. It explores disease prevalence, mortality rates, gender-based distribution, urban vs. rural impact, and state-wise case trends.
 
+![Dashboard](https://raw.githubusercontent.com/EazytheDataGuy/Infectious-Disease-Surveillance-hub-2009-2018/main/dashboard.png)
 
 ### Data Sources
 
