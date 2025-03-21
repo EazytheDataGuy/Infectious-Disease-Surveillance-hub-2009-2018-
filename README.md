@@ -12,30 +12,30 @@
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
-## Project Overview
 
+## Project Overview
+---
 This project analyzes infectious disease trends in Nigeria from 2009 to 2018 using SQL for data cleaning and Power BI for visualization. It explores disease prevalence, mortality rates, gender-based distribution, urban vs. rural impact, and state-wise case trends.
 
 
 ### Data Sources
-
-
+---
 Infectious Diseases Data: The primary dataset used for this analysis is the "meningitis_clean" file
 
 ### Tools
-
+---
 - SQL - Data cleaning
 - Power bi - for visualization
 
 ### Data Cleaning/Preparation
-
+---
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
 2. Handling missing values.
 3. Data cleaningand formatting.
 
 ### Exploratory Data Analysis
-
+---
 EDA involved exploring the infectious diseases data to answer key questions, such as:
 
 - What are the most prevalent infectious diseases in Nigeria (2009-2018)?
@@ -47,7 +47,7 @@ EDA involved exploring the infectious diseases data to answer key questions, suc
 - How do disease cases vary by gender?
 
 ### Data Analysis 
-
+---
 Include some interesting code/features worked with
 
 ```sql
@@ -309,7 +309,7 @@ ORDER BY COUNT(*) DESC; -- CHOLERA HAS THE NUMBER OF CASES
 ```
 
 ### Results/Findings
-
+---
 The analysis results are summarized as follows:
 1. Cholera had the highest reported cases (28,589).
 2. Female cases (147,272) exceeded male cases (137,212).
@@ -319,7 +319,7 @@ The analysis results are summarized as follows:
 6. Females had more reported cases (147,272) than males (137,212). Females also had a higher number of death cases (73,810) compared to males (68,479)
 
 ### Recommendations
-
+---
 Based on the analysis, we recommend the following actions:
 #### 1. Strengthen Disease Prevention & Control Measures
 - Target High-Prevalence Diseases: Prioritize prevention programs for Cholera, Diarrhea, and Rubella, which had the highest reported cases.
@@ -339,5 +339,5 @@ Based on the analysis, we recommend the following actions:
 
 
 ### Limitations
-
+---
 I had to remove some columns from the dataset because we were focused on analyzing disease trends, mortality rates, gender distribution, settlement impact, and high-risk states. Columns that were irrelevant to these key areas or did not contribute to meaningful insights were excluded to ensure a cleaner and more targeted analysis.
